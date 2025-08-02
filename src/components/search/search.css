@@ -1,0 +1,31 @@
+.search-engine{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.city-search{
+    width: 70%;
+    height: 45px;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 2px 15px;
+    font-size: 16px;
+    outline: none;
+    background-color: #ffffff;
+    color: #555555;
+}
+
+.search-btn{
+    border: none;
+    border-radius: 8px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    outline: none;
+    cursor: pointer;
+    padding: 13px 15px;
+}
